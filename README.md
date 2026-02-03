@@ -16,6 +16,6 @@ A playful, OSCP-friendly recon helper that wraps **nmap** with a practical workf
 ## Install
 
 ```bash
-git clone <your-repo-url>
+git clone <repo-url>
 cd kameRadar
 chmod +x kameRadar.sh
